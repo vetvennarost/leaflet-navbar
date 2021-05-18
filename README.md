@@ -1,7 +1,7 @@
-Leaflet.NavBar
+leaflet.navbar
 ==============
 
-Simple navigation toolbar for Leaflet.
+Simple navigation toolbar for Leaflet by [David C](https://github.com/davidchouse).
 
 Demo: http://davidchouse.github.io/Leaflet.NavBar/
 

@@ -1,4 +1,4 @@
-leaflet.navbar
+leaflet-navbar
 ==============
 
 Simple navigation toolbar for Leaflet by [David C](https://github.com/davidchouse).
